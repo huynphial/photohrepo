@@ -75,7 +75,7 @@
       "name": "kiki Hsieh",
       "folderName": "123648759@N05",
       "totalPages": 41,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "128981241@N06",
@@ -103,14 +103,14 @@
       "name": "凌 楊",
       "folderName": "133400246@N05",
       "totalPages": 35,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "138691098@N04",
       "name": "LI LIVINGSTONE",
       "folderName": "138691098@N04",
       "totalPages": 126,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "139905112@N02",
@@ -138,14 +138,14 @@
       "name": "Khoa Ngô",
       "folderName": "146038635@N08",
       "totalPages": 1,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "147271151@N07",
       "name": "fly liou",
       "folderName": "147271151@N07",
       "totalPages": 12,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "151130368@N03",
@@ -180,7 +180,7 @@
       "name": "Oriental Delights",
       "folderName": "168691458@N08",
       "totalPages": 398,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "191047247@N05",
@@ -194,7 +194,7 @@
       "name": "Duong EOS",
       "folderName": "191306061@N07",
       "totalPages": 3,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "197735840@N04",
@@ -205,7 +205,7 @@
     },
     {
       "id": "46237859@N04",
-      "name": "",
+      "name": "ducnho2413",
       "folderName": "46237859@N04",
       "totalPages": 1,
       "showCover": true
@@ -222,7 +222,7 @@
       "name": "Chen Wang",
       "folderName": "62204322@N03",
       "totalPages": 22,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "62778864@N04",
@@ -233,7 +233,7 @@
     },
     {
       "id": "63825951@N05",
-      "name": "",
+      "name": "Hưng Phát",
       "folderName": "63825951@N05",
       "totalPages": 1,
       "showCover": true
@@ -243,49 +243,49 @@
       "name": "軒 黃",
       "folderName": "95043822@N06",
       "totalPages": 1,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "95367064@N04",
       "name": "Vale Wuen",
       "folderName": "95367064@N04",
       "totalPages": 11,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "99002729@N07",
       "name": "Robin Huang",
       "folderName": "99002729@N07",
       "totalPages": 465,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "bearwu",
       "name": "Bear_Wu",
       "folderName": "bearwu",
       "totalPages": 66,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "jaspher",
       "name": "王佳維",
       "folderName": "jaspher",
       "totalPages": 89,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "kaws_paul",
       "name": "大炮 郭",
       "folderName": "kaws_paul",
       "totalPages": 16,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "mabury696",
       "name": "Johnny",
       "folderName": "mabury696",
       "totalPages": 227,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "meetlin",
@@ -299,21 +299,21 @@
       "name": "Randy Wei",
       "folderName": "randywei",
       "totalPages": 7,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "rickytang",
       "name": "rickytanghkg",
       "folderName": "rickytang",
       "totalPages": 501,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "uni_rai",
       "name": "Uni Rai",
       "folderName": "uni_rai",
       "totalPages": 12,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "wingmanzero",
@@ -327,7 +327,7 @@
       "name": "KIRASEI YU",
       "folderName": "yukirasei",
       "totalPages": 86,
-      "showCover": true
+      "showCover": false
     }
   ]
 }
