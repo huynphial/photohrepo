@@ -334,14 +334,14 @@
       "name": "小清新攝影師",
       "folderName": "100237731@N05",
       "totalPages": 144,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "129381122@N03",
       "name": "Minh tokyo",
       "folderName": "129381122@N03",
       "totalPages": 493,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "134598900@N04",
@@ -383,7 +383,7 @@
       "name": "Danny Lee",
       "folderName": "159424071@N05",
       "totalPages": 154,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "194110464@N06",
@@ -397,7 +397,7 @@
       "name": "imamura_55",
       "folderName": "196181578@N02",
       "totalPages": 15,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "30740705@N07",
@@ -432,7 +432,7 @@
       "name": "lee shun chieh",
       "folderName": "angus0507",
       "totalPages": 69,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "brode013",
@@ -453,7 +453,7 @@
       "name": "DDG XIE",
       "folderName": "ddgxxx",
       "totalPages": 22,
-      "showCover": true
+      "showCover": false
     },
     {
       "id": "dinhvanlinh",
@@ -495,7 +495,7 @@
       "name": "李 俊賢",
       "folderName": "newagefan",
       "totalPages": 176,
-      "showCover": true
+      "showCover": false
     }
   ]
 }
